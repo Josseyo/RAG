@@ -1,0 +1,6 @@
+tasks:
+  - init: |
+      pip install requests openai
+  - command: |
+      python main.py  # Replace with your main script name
+
